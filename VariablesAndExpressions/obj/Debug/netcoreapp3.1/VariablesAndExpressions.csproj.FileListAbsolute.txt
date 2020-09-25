@@ -1,0 +1,13 @@
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingFundamentals\VariablesAndExpressions\bin\Debug\netcoreapp3.1\VariablesAndExpressions.exe
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingFundamentals\VariablesAndExpressions\bin\Debug\netcoreapp3.1\VariablesAndExpressions.deps.json
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingFundamentals\VariablesAndExpressions\bin\Debug\netcoreapp3.1\VariablesAndExpressions.runtimeconfig.json
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingFundamentals\VariablesAndExpressions\bin\Debug\netcoreapp3.1\VariablesAndExpressions.runtimeconfig.dev.json
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingFundamentals\VariablesAndExpressions\bin\Debug\netcoreapp3.1\VariablesAndExpressions.dll
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingFundamentals\VariablesAndExpressions\bin\Debug\netcoreapp3.1\VariablesAndExpressions.pdb
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingFundamentals\VariablesAndExpressions\obj\Debug\netcoreapp3.1\VariablesAndExpressions.csprojAssemblyReference.cache
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingFundamentals\VariablesAndExpressions\obj\Debug\netcoreapp3.1\VariablesAndExpressions.AssemblyInfoInputs.cache
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingFundamentals\VariablesAndExpressions\obj\Debug\netcoreapp3.1\VariablesAndExpressions.AssemblyInfo.cs
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingFundamentals\VariablesAndExpressions\obj\Debug\netcoreapp3.1\VariablesAndExpressions.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingFundamentals\VariablesAndExpressions\obj\Debug\netcoreapp3.1\VariablesAndExpressions.dll
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingFundamentals\VariablesAndExpressions\obj\Debug\netcoreapp3.1\VariablesAndExpressions.pdb
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingFundamentals\VariablesAndExpressions\obj\Debug\netcoreapp3.1\VariablesAndExpressions.genruntimeconfig.cache
