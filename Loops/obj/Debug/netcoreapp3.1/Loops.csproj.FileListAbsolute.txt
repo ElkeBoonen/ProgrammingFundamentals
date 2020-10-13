@@ -1,0 +1,13 @@
+C:\Users\elkeb\source\repos\Loops\bin\Debug\netcoreapp3.1\Loops.exe
+C:\Users\elkeb\source\repos\Loops\bin\Debug\netcoreapp3.1\Loops.deps.json
+C:\Users\elkeb\source\repos\Loops\bin\Debug\netcoreapp3.1\Loops.runtimeconfig.json
+C:\Users\elkeb\source\repos\Loops\bin\Debug\netcoreapp3.1\Loops.runtimeconfig.dev.json
+C:\Users\elkeb\source\repos\Loops\bin\Debug\netcoreapp3.1\Loops.dll
+C:\Users\elkeb\source\repos\Loops\bin\Debug\netcoreapp3.1\Loops.pdb
+C:\Users\elkeb\source\repos\Loops\obj\Debug\netcoreapp3.1\Loops.AssemblyInfoInputs.cache
+C:\Users\elkeb\source\repos\Loops\obj\Debug\netcoreapp3.1\Loops.AssemblyInfo.cs
+C:\Users\elkeb\source\repos\Loops\obj\Debug\netcoreapp3.1\Loops.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\source\repos\Loops\obj\Debug\netcoreapp3.1\Loops.dll
+C:\Users\elkeb\source\repos\Loops\obj\Debug\netcoreapp3.1\Loops.pdb
+C:\Users\elkeb\source\repos\Loops\obj\Debug\netcoreapp3.1\Loops.genruntimeconfig.cache
+C:\Users\elkeb\source\repos\Loops\obj\Debug\netcoreapp3.1\Loops.csprojAssemblyReference.cache
