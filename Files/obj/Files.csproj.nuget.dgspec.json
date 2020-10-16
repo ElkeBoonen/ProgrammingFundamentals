@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elkeb\\Source\\Repos\\ElkeBoonen\\ProgrammingFundamentals\\VariablesAndExpressions\\VariablesAndExpressions.csproj": {}
+    "C:\\Users\\elkeb\\source\\repos\\ElkeBoonen\\ProgrammingFundamentals\\Files\\Files.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elkeb\\Source\\Repos\\ElkeBoonen\\ProgrammingFundamentals\\VariablesAndExpressions\\VariablesAndExpressions.csproj": {
+    "C:\\Users\\elkeb\\source\\repos\\ElkeBoonen\\ProgrammingFundamentals\\Files\\Files.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elkeb\\Source\\Repos\\ElkeBoonen\\ProgrammingFundamentals\\VariablesAndExpressions\\VariablesAndExpressions.csproj",
-        "projectName": "VariablesAndExpressions",
-        "projectPath": "C:\\Users\\elkeb\\Source\\Repos\\ElkeBoonen\\ProgrammingFundamentals\\VariablesAndExpressions\\VariablesAndExpressions.csproj",
+        "projectUniqueName": "C:\\Users\\elkeb\\source\\repos\\ElkeBoonen\\ProgrammingFundamentals\\Files\\Files.csproj",
+        "projectName": "Files",
+        "projectPath": "C:\\Users\\elkeb\\source\\repos\\ElkeBoonen\\ProgrammingFundamentals\\Files\\Files.csproj",
         "packagesPath": "C:\\Users\\elkeb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elkeb\\Source\\Repos\\ElkeBoonen\\ProgrammingFundamentals\\VariablesAndExpressions\\obj\\",
+        "outputPath": "C:\\Users\\elkeb\\source\\repos\\ElkeBoonen\\ProgrammingFundamentals\\Files\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
