@@ -58,7 +58,6 @@ namespace Files
             Regex rx = new Regex(@"Rapunzel",RegexOptions.IgnoreCase);
             MatchCollection matches = rx.Matches(text);
             Console.WriteLine("\n\n" + matches.Count + " matches found!");
-
         }
     }
 }

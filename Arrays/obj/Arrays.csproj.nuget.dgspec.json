@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elkeb\\Source\\Repos\\ElkeBoonen\\ProgrammingFundamentals\\Loops\\Loops.csproj": {}
+    "C:\\Users\\elkeb\\source\\repos\\ElkeBoonen\\ProgrammingFundamentals\\Arrays\\Arrays.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elkeb\\Source\\Repos\\ElkeBoonen\\ProgrammingFundamentals\\Loops\\Loops.csproj": {
+    "C:\\Users\\elkeb\\source\\repos\\ElkeBoonen\\ProgrammingFundamentals\\Arrays\\Arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elkeb\\Source\\Repos\\ElkeBoonen\\ProgrammingFundamentals\\Loops\\Loops.csproj",
-        "projectName": "Loops",
-        "projectPath": "C:\\Users\\elkeb\\Source\\Repos\\ElkeBoonen\\ProgrammingFundamentals\\Loops\\Loops.csproj",
+        "projectUniqueName": "C:\\Users\\elkeb\\source\\repos\\ElkeBoonen\\ProgrammingFundamentals\\Arrays\\Arrays.csproj",
+        "projectName": "Arrays",
+        "projectPath": "C:\\Users\\elkeb\\source\\repos\\ElkeBoonen\\ProgrammingFundamentals\\Arrays\\Arrays.csproj",
         "packagesPath": "C:\\Users\\elkeb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elkeb\\Source\\Repos\\ElkeBoonen\\ProgrammingFundamentals\\Loops\\obj\\",
+        "outputPath": "C:\\Users\\elkeb\\source\\repos\\ElkeBoonen\\ProgrammingFundamentals\\Arrays\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
