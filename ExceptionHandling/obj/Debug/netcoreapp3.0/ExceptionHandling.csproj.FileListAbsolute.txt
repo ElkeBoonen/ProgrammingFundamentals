@@ -1,0 +1,12 @@
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingFundamentals\ExceptionHandling\bin\Debug\netcoreapp3.0\english.txt
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingFundamentals\ExceptionHandling\bin\Debug\netcoreapp3.0\ExceptionHandling.exe
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingFundamentals\ExceptionHandling\bin\Debug\netcoreapp3.0\ExceptionHandling.deps.json
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingFundamentals\ExceptionHandling\bin\Debug\netcoreapp3.0\ExceptionHandling.runtimeconfig.json
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingFundamentals\ExceptionHandling\bin\Debug\netcoreapp3.0\ExceptionHandling.runtimeconfig.dev.json
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingFundamentals\ExceptionHandling\bin\Debug\netcoreapp3.0\ExceptionHandling.dll
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingFundamentals\ExceptionHandling\bin\Debug\netcoreapp3.0\ExceptionHandling.pdb
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingFundamentals\ExceptionHandling\obj\Debug\netcoreapp3.0\ExceptionHandling.csprojAssemblyReference.cache
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingFundamentals\ExceptionHandling\obj\Debug\netcoreapp3.0\ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingFundamentals\ExceptionHandling\obj\Debug\netcoreapp3.0\ExceptionHandling.AssemblyInfo.cs
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingFundamentals\ExceptionHandling\obj\Debug\netcoreapp3.0\ExceptionHandling.dll
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingFundamentals\ExceptionHandling\obj\Debug\netcoreapp3.0\ExceptionHandling.pdb
