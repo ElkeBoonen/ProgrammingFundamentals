@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elkeb\\Source\\Repos\\ElkeBoonen\\ProgrammingFundamentals\\Arrays\\Arrays.csproj": {}
+    "C:\\Users\\elkeb\\source\\repos\\ElkeBoonen\\ProgrammingFundamentals\\Methods\\Methods.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elkeb\\Source\\Repos\\ElkeBoonen\\ProgrammingFundamentals\\Arrays\\Arrays.csproj": {
+    "C:\\Users\\elkeb\\source\\repos\\ElkeBoonen\\ProgrammingFundamentals\\Methods\\Methods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elkeb\\Source\\Repos\\ElkeBoonen\\ProgrammingFundamentals\\Arrays\\Arrays.csproj",
-        "projectName": "Arrays",
-        "projectPath": "C:\\Users\\elkeb\\Source\\Repos\\ElkeBoonen\\ProgrammingFundamentals\\Arrays\\Arrays.csproj",
+        "projectUniqueName": "C:\\Users\\elkeb\\source\\repos\\ElkeBoonen\\ProgrammingFundamentals\\Methods\\Methods.csproj",
+        "projectName": "Methods",
+        "projectPath": "C:\\Users\\elkeb\\source\\repos\\ElkeBoonen\\ProgrammingFundamentals\\Methods\\Methods.csproj",
         "packagesPath": "C:\\Users\\elkeb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elkeb\\Source\\Repos\\ElkeBoonen\\ProgrammingFundamentals\\Arrays\\obj\\",
+        "outputPath": "C:\\Users\\elkeb\\source\\repos\\ElkeBoonen\\ProgrammingFundamentals\\Methods\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
