@@ -1,0 +1,13 @@
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingFundamentals\OO\bin\Debug\netcoreapp3.1\OO.exe
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingFundamentals\OO\bin\Debug\netcoreapp3.1\OO.deps.json
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingFundamentals\OO\bin\Debug\netcoreapp3.1\OO.runtimeconfig.json
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingFundamentals\OO\bin\Debug\netcoreapp3.1\OO.runtimeconfig.dev.json
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingFundamentals\OO\bin\Debug\netcoreapp3.1\OO.dll
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingFundamentals\OO\bin\Debug\netcoreapp3.1\OO.pdb
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingFundamentals\OO\obj\Debug\netcoreapp3.1\OO.csprojAssemblyReference.cache
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingFundamentals\OO\obj\Debug\netcoreapp3.1\OO.AssemblyInfoInputs.cache
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingFundamentals\OO\obj\Debug\netcoreapp3.1\OO.AssemblyInfo.cs
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingFundamentals\OO\obj\Debug\netcoreapp3.1\OO.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingFundamentals\OO\obj\Debug\netcoreapp3.1\OO.dll
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingFundamentals\OO\obj\Debug\netcoreapp3.1\OO.pdb
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingFundamentals\OO\obj\Debug\netcoreapp3.1\OO.genruntimeconfig.cache
